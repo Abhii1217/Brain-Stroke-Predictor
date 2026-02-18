@@ -5,6 +5,7 @@ requests
 numpy
 pandas
 scikit-learn
+imbalanced-learn
 joblib
 gunicorn
 pytz
